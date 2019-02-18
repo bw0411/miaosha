@@ -78,6 +78,14 @@
       <artifactId>jedis</artifactId>
     </dependency>
 
+    <!-- https://mvnrepository.com/artifact/org.csource/fastdfs-client-java -->
+    <dependency>
+      <groupId>org.csource</groupId>
+      <artifactId>fastdfs-client-java</artifactId>
+      <version>1.27-RELEASE</version>
+    </dependency>
+
+
     <!-- https://mvnrepository.com/artifact/com.rabbitmq/amqp-client -->
     <dependency>
       <groupId>com.rabbitmq</groupId>
